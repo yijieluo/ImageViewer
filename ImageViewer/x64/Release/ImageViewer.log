@@ -1,0 +1,6 @@
+﻿  Reading Qt configuration (D:\Qt\Qt5.12.1\5.12.1\msvc2017_64\bin\qmake.exe)
+  moc ImageViewer.h
+  ImageViewer.cpp
+  main.cpp
+  moc_ImageViewer.cpp
+  ImageViewer.vcxproj -> C:\Users\luoyijie\Desktop\ImageViewer\x64\Release\ImageViewer.exe
